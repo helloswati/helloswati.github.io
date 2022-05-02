@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/jasper2/tag/fiction/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/jasper2/" rel="alternate" type="text/html" />
+  <updated>2022-05-02T11:23:31+05:30</updated>
+  <id>http://localhost:4000/jasper2/tag/fiction/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Ghost | </title>
+  
+
+  
+    <subtitle>The professional publishing platform</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Swati Resume</title>
+      <link href="http://localhost:4000/jasper2/resume" rel="alternate" type="text/html" title="Swati Resume" />
+      <published>1912-07-24T15:48:00+05:30</published>
+      <updated>1912-07-24T15:48:00+05:30</updated>
+      <id>http://localhost:4000/jasper2/resume</id>
+      <content type="html" xml:base="http://localhost:4000/jasper2/resume">&lt;p&gt;My Resume&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Edgar Rice Burroughs</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="fiction" />
+      
+
+      
+        <summary type="html">My Resume</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mei Pagal</title>
+      <link href="http://localhost:4000/jasper2/my-travel" rel="alternate" type="text/html" title="Mei Pagal" />
+      <published>1912-07-24T15:48:00+05:30</published>
+      <updated>1912-07-24T15:48:00+05:30</updated>
+      <id>http://localhost:4000/jasper2/my-travel</id>
+      <content type="html" xml:base="http://localhost:4000/jasper2/my-travel">&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;https://demo.ghost.io/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Edgar Rice Burroughs</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="fiction" />
+      
+
+      
+        <summary type="html">The main thing you’ll want to read about next is probably: the Ghost editor.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
