@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>jekyllt.github.io/jasper/</title>
+   
+   <link>http://localhost:4000</link>
+   <description>A beautiful narrative written with the world's most elegant publishing platform. The story begins here.</description>
+   <language>en-uk</language>
+   <managingEditor> </managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Swati Resume</title>
+	  <link>//resume</link>
+	  <author></author>
+	  <pubDate>2022-05-02T15:48:00+05:30</pubDate>
+	  <guid>//resume</guid>
+	  <description><![CDATA[
+	     <ul>
+  <li>Email: hello.dk@outlook.com</li>
+  <li>About.me: about.me/hellodk</li>
+  <li>Blog: hellodk.io</li>
+  <li>Github: github.com/hellodk</li>
+  <li>LinkedIn: linkedin.com/in/hellodk</li>
+  <li>Docker Hub:</li>
+</ul>
+
+<h4 id="software-skills">Software Skills</h4>
+
+<ul>
+  <li>Programming: R, Python</li>
+  <li>OS : Linux, Windows</li>
+</ul>
+
+<h4 id="educational-qualifications">Educational Qualifications</h4>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
